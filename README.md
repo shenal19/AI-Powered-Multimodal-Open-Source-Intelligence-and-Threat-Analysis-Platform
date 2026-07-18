@@ -1,4 +1,4 @@
-# 🛡️ AEGIS – AI-Powered Open-Source Intelligence & Video Threat Intelligence Platform
+# 🛡️ AI-Powered Open-Source Intelligence & Video Threat Intelligence Platform
 
 ## Overview
 
